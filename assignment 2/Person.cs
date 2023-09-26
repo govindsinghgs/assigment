@@ -11,7 +11,7 @@ namespace CsharpPrograms
     {
         /*static void Main(string[] args) {
             Person obj3 = new Person();
-            obj3.read("Akash", "singh");
+            obj3.read("Govind", "singh");
             obj3.display();
         }*/
     }
